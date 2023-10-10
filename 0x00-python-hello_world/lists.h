@@ -23,4 +23,7 @@ void free_listint(listint_t *head);
 int check_cycle(listint_t *list);
 
 #endif /* LISTS_H */
+<<<<<<< HEAD
 
+=======
+>>>>>>> 312bbea17e7f3742b13fe50a3ec3370a23737347

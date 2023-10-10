@@ -1,3 +1,6 @@
 #!/bin/bash
 python3 -c "$PYCODE"
+<<<<<<< HEAD
 
+=======
+>>>>>>> 312bbea17e7f3742b13fe50a3ec3370a23737347
